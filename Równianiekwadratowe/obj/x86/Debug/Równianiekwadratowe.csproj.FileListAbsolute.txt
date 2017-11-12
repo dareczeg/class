@@ -1,0 +1,7 @@
+C:\Users\Dariusz\documents\visual studio 2010\Projects\Równianiekwadratowe\Równianiekwadratowe\obj\x86\Debug\Równianiekwadratowe.Form1.resources
+C:\Users\Dariusz\documents\visual studio 2010\Projects\Równianiekwadratowe\Równianiekwadratowe\obj\x86\Debug\Równianiekwadratowe.Properties.Resources.resources
+C:\Users\Dariusz\documents\visual studio 2010\Projects\Równianiekwadratowe\Równianiekwadratowe\obj\x86\Debug\Równianiekwadratowe.csproj.GenerateResource.Cache
+C:\Users\Dariusz\documents\visual studio 2010\Projects\Równianiekwadratowe\Równianiekwadratowe\bin\Debug\Równianiekwadratowe.exe
+C:\Users\Dariusz\documents\visual studio 2010\Projects\Równianiekwadratowe\Równianiekwadratowe\bin\Debug\Równianiekwadratowe.pdb
+C:\Users\Dariusz\documents\visual studio 2010\Projects\Równianiekwadratowe\Równianiekwadratowe\obj\x86\Debug\Równianiekwadratowe.exe
+C:\Users\Dariusz\documents\visual studio 2010\Projects\Równianiekwadratowe\Równianiekwadratowe\obj\x86\Debug\Równianiekwadratowe.pdb
